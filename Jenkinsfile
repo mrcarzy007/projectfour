@@ -15,8 +15,7 @@ pipeline {
                 -Dsonar.projectKey=my-python \
                 -Dsonar.sources=. \
                 -Dsonar.host.url=http://3.80.127.44:9000 \
-                -Dsonar.login=admin
-                -Dsonar.password=admin
+                -Dsonar.login=sqa_4202215858d710d2845cba76489b5afc76812ec7
                 '''
                 }
                 
