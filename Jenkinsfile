@@ -16,6 +16,7 @@ pipeline {
                 -Dsonar.sources=. \
                 -Dsonar.host.url=http://3.80.127.44:9000 \
                 -Dsonar.login=admin
+                -Dsonar.password=admin
                 '''
                 }
                 
